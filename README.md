@@ -1,7 +1,9 @@
 # Calculadora de IMC
 
-*Screen Android*
-![screen_iphone.png](./assets/screen_android.png)
+*Screen Android* 
+
+<img src="./assets/screen_android.png" width="300" height="600"/>
 
 *Screen iPhone*
-![screen_iphone.png](./assets/screen_iphone.png)
+
+<img src="./assets/screen_iphone.png" width="300" height="600"/>
